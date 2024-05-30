@@ -1,2 +1,1 @@
-# rn-starter
-React Native starter / scaffold 
+A react native starter/boiler plate
